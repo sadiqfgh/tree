@@ -1,0 +1,69 @@
+body {
+    background: url(صور/giphy\ \(1\).webp);
+    background-size: cover;
+    color: #333333; /* لون النص الأساسي */
+}
+
+#x1 {
+    background-color: #334f68; /* لون بني محايد */
+    color: white;
+    border: solid 2px #ffffff; /* لون الحدود الفاتحة */
+    width: 350px;
+    max-width: 90%;
+    border-radius: 5px;
+}
+
+#x2 {
+    background-color: #17a2b8; /* لون أكوا هادئ */
+    border: solid 2px #dee2e6; /* لون الحدود الفاتحة */
+    width: 350px;
+    border-radius: 8px;    
+}
+
+#x3 {
+    background-color: #007bff; /* لون أزرق هادئ */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.3s;
+    border: solid 2px #dee2e6; /* لون الحدود الفاتحة */
+}
+
+#x3:hover {
+    background-color: #0056b3; /* أزرق داكن عند التمرير */
+    transform: scale(1.05);
+}
+
+#x4 {
+    border: solid 2px #dee2e6; /* لون الحدود الفاتحة */
+    width: 150px;
+    height: 150px;
+    border-radius: 60%;
+    background-size: cover;
+}
+
+#x31 {
+    background-color: #007bff; /* لون أخضر */
+    color: white;
+    padding: 15px 37px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.3s;
+    border: solid 2px #dee2e6; /* لون الحدود الفاتحة */
+}
+
+#x31:hover {
+    background-color: #0056b3; /* أخضر داكن عند التمرير */
+    transform: scale(1.05);
+}
